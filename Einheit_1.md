@@ -1,4 +1,4 @@
-#IT - Controlling
+IT - Controlling
 
 Navigation in SAP:
 -SAP-Easy Access Menü
