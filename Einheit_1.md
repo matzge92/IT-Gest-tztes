@@ -3,7 +3,7 @@ IT - Controlling
 Navigation in SAP:
 -SAP-Easy Access Menü
 -Benutzermenü
--Transaktionscodes (Zusätze->Einstellungen-teschnische Namen anzeigen) /n zum wechseln
+-Transaktionscodes (Zusätze->Einstellungen-teschnische Namen anzeigen)\n /n zum wechseln
 -Favoriten -> Ordner Einfügen -> rechte Maustaste und Favorit hinzufügen
 
 Controlling:
