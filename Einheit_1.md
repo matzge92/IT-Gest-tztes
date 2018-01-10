@@ -1,4 +1,4 @@
-IT - Controlling
+# IT - Controlling
 
 Navigation in SAP:
 -SAP-Easy Access Menü
@@ -6,7 +6,7 @@ Navigation in SAP:
 -Transaktionscodes (Zusätze->Einstellungen-teschnische Namen anzeigen) /n zum wechseln
 -Favoriten -> Ordner Einfügen -> rechte Maustaste und Favorit hinzufügen
 
-Controlling:
+## Controlling:
 
 Buchungskreis = rechtlich selbstständige Einheit z.B GmbH; möglicherweise mehrere Buchungskreise
 Bunchungskreis in Geschäftsbereiche untergliedern
@@ -17,7 +17,7 @@ Kostentrechnungskreis: Buchungskreise werden Kostenrechnungskreis untergeordnet
 Für Customizing:
 Werkzeuge -> Customizing -> IMG -> SPRO 
 
-Kostenarten und Kostenstellen:
+## ostenarten und Kostenstellen:
 
 KA03 Kostenart anzeigen
 KA01 primäre Kostenart anlegen
@@ -29,7 +29,7 @@ KS04 Kostenstelle löschen
 OKENN Kostenstellen-Standardhierachie anzeigen
 KSH1 Kostenstellengruppe anlegen
 
-Leistungsarten:
+## Leistungsarten:
 
 KL03 Leistungsart anzeigen
 
