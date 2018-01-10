@@ -17,7 +17,7 @@ Kostentrechnungskreis: Buchungskreise werden Kostenrechnungskreis untergeordnet
 Für Customizing:
 Werkzeuge -> Customizing -> IMG -> SPRO 
 
-## ostenarten und Kostenstellen:
+## Kostenarten und Kostenstellen:
 
 KA03 Kostenart anzeigen
 KA01 primäre Kostenart anlegen
